@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626780426776",
+    "project_id": "scanpay-e4242",
+    "storage_bucket": "scanpay-e4242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626780426776:android:46015eb3057db4fa7ba96d",
+        "android_client_info": {
+          "package_name": "com.example.scanpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbXvkpDyBDeXE-2e8o2AM2LuH9U1j9aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
